@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @KF1604
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Madaminbek
 
-<!---
-KF1604/KF1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interested in AI, Python, and Telegram bot development  
+🌱 Currently learning Aiogram, PostgreSQL, and payment integrations  
+💞️ Looking to collaborate on Python and AI projects  
+📫 Reach me via dmukhammadamin@gmail.com or t.me/khalifausa
