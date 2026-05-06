@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 🎯 **Passionate Python & AI Developer** from Uzbekistan 🇺🇿  
-💡 **Age:** 23 | **Experience:** 1+ years with Python & Django/FastAPI  
+💡 **Age:** 24 | **Experience:** 1+ years with Python & Django/FastAPI  
 🎓 **Goal:** Becoming a world-class AI Engineer  
 📚 **Currently:** Working on AI-integrated Telegram bots and web apps  
 🌍 **Dream:** Building intelligent systems that make life easier  
